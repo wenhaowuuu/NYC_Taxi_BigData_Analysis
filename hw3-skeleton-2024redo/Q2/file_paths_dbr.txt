@@ -1,0 +1,3 @@
+/FileStore/tables/nyc_tripdata.csv
+
+/FileStore/tables/taxi_zone_lookup.csv
